@@ -2,8 +2,8 @@
 # 
 ###############################################################################################
 # 
-# Dieses Script holt führt den build für alle aktuelle Domänen aus 
-# uns erstellt die Images.
+# Dieses Script führt den build für alle aktuellen Domänen aus 
+# und erstellt die Images.
 #
 # Das Script benötigt die folgenden Kommandozeilenparameter:
 # - Gluon-Commit (z.B. v2014.4)
