@@ -3,7 +3,7 @@
 ###############################################################################################
 # 
 # Dieses Script holt die vorgegebene Gluon-Version in das aktuelle Arbeitsverzeichnis 
-# uns erstellt die Images.
+# und erstellt die Images.
 #
 # Das Script benötigt die folgenden Kommandozeilenparameter:
 # - Gluon-Commit (z.B. v2014.4)
